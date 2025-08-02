@@ -1,0 +1,7 @@
+,Montage,EnemyRate,StartSectionName,CanMove
+1,/Script/Engine.AnimMontage'/Game/ReImport_Montage.ReImport_Montage',1,,FALSE
+2,/Script/Engine.AnimMontage'/Game/Main/Character/Boss/Pieta_Combo_003_Montage.Pieta_Combo_003_Montage',1,,FALSE
+3,/Script/Engine.AnimMontage'/Game/Main/Character/Boss/Pieta_LastCombo_Montage.Pieta_LastCombo_Montage',1,,FALSE
+4,/Script/Engine.AnimMontage'/Game/Main/Character/Boss/Pieta_2Phasecombo_02_Montage.Pieta_2Phasecombo_02_Montage',1,,FALSE
+5,/Script/Engine.AnimMontage'/Game/Main/Character/Boss/Pieta_2PhaseCombo_01.Pieta_2PhaseCombo_01',1,,FALSE
+6,/Script/Engine.AnimMontage'/Game/Main/Character/Boss/Pieta_2Phase_Combo_03.Pieta_2Phase_Combo_03',1,,FALSE

@@ -1,0 +1,4 @@
+,Montage,PlayerRate,StartSectionName,CanMove
+1,/Script/Engine.AnimMontage'/Game/Main/Player_Anim/Player_Combo_01.Player_Combo_01',1,,FALSE
+2,/Script/Engine.AnimMontage'/Game/Main/Player_Anim/Montages/Player_Combo_02.Player_Combo_02',1,,FALSE
+3,/Script/Engine.AnimMontage'/Game/Main/Player_Anim/Player_combo_003_Montage.Player_combo_003_Montage',1,,FALSE
