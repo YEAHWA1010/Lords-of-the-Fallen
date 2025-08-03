@@ -54,24 +54,22 @@
 
 <table>
   <tr>
-    <th>플레이어 콤보</th>
-    <th>1페이즈 보스 근거리 공격</th>
+    <th>1페이즈 공격</th>
+    <th>레이저 패턴 공격</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/your-player-combo.gif" width="350px" height="200px"></td>
-    <td><img src="https://github.com/user-attachments/assets/your-phase1-melee.gif" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/c3be53a4-f19a-4a5d-add0-489d651bbf31" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/004d6c79-ca0d-44b1-ad24-fb4c02b3c2f8" width="350px" height="200px"></td>
   </tr>
   <tr>
-    <th>타겟팅 시스템</th>
-    <th>2페이즈 원거리 스킬</th>
+    <th>2페이즈 공격</th>
+    <th>불덩이 낙하 공격</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/your-targeting.gif" width="350px" height="200px"></td>
-    <td><img src="https://github.com/user-attachments/assets/your-phase2-ranged.gif" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/e2861502-6cbe-47a5-ac4a-87909853a165" width="350px" height="200px"></td>
+    <td><img src="https://github.com/user-attachments/assets/9decf6e7-19be-458d-9016-51e67e190f75" width="350px" height="200px"></td>
   </tr>
 </table>
-
-<p align="center">※ 실제 플레이 중 캡처된 전투 연출 장면입니다.</p>
 
 ---
 
