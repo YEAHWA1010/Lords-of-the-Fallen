@@ -71,7 +71,6 @@
 
 - 📹 [플레이 영상 보기](https://youtu.be/Na-bHM61pRQ)  
 - 📄 [개발 명세서 (Notion)](https://melted-part-f0c.notion.site/Load-Of-Fallen-1dc924ed3149803bac73d3a4e054791f?pvs=4)  
-- 💻 [GitHub 저장소](https://github.com/YEAHWA1010/Lords-of-the-Fallen)
 
 ---
 
